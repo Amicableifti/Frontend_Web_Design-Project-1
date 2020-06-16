@@ -26,7 +26,9 @@ font-style: italic;
 
 background: #ecebeb;
 
-margin: 0;
+margin-right: 254px;
+
+padding-left: 66px;
 }
   h3{
 
@@ -37,6 +39,8 @@ background: #ecebeb;
 margin-bottom: 10px;
 
 margin-top: 10px;
+
+margin-right: 254px;
 }
   img{
   	
@@ -44,7 +48,15 @@ margin-top: 10px;
   	
 max-width: 100%;
   	
-/* padding: 30px; */
+padding: 20px;
+  	
+height: 349px;
+  	
+width: 70%;
+  	
+align-items: center;
+  	
+margin: auto;
   }
   span.name{
 
